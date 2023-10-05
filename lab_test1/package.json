@@ -1,0 +1,12 @@
+{
+  "name": "lab_test1",
+  "version": "1.0.0",
+  "description": "code for lab test 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Julien Byrnes",
+  "license": "ISC"
+}
